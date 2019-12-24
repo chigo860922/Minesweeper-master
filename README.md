@@ -1,9 +1,9 @@
-# Minesweeper by Java 扫雷游戏
+# Minesweeper by Java 
 
 
-## 简介
+## 簡介
 
-基于Java Swing
+
 
 
 ## 下载
